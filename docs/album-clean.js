@@ -1,0 +1,1 @@
+(()=>{const d=document.querySelector('#album');d.addEventListener('click',e=>{if(e.target.closest('.photo-deck,.album-controls button,#photo-dots button'))return;d.close()});const z=document.querySelector('.travel-photo-zoom');z?.addEventListener('click',e=>{if(e.target===z)z.close()})})();

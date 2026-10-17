@@ -1,0 +1,10 @@
+header{justify-content:center}header nav{justify-content:center;gap:42px;font-size:16px}header nav a{padding:10px 0}
+.name-display{color:#3a3a3a;font-weight:600;border-color:#686868;margin:-25px 0 -10px -10px;height:175px;padding-bottom:0;opacity:1}
+.bio-row.intro p{color:#b7b7b7}.internship-lead{margin-bottom:20px}.official-logo{color:#9dceff;width:210px;height:38px;background:#9dceff;mask:url('assets/bytedance-official.svg') center/contain no-repeat;-webkit-mask:url('assets/bytedance-official.svg') center/contain no-repeat}.official-logo img{display:block;width:100%;height:100%;opacity:0}
+#region-overlay{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:1}.region-hint{font-size:10px;color:#8c9fb0}
+.travel-heading-bottom{justify-content:flex-end}
+@media(max-width:700px){header{padding:14px 5vw}header nav{font-size:13px;gap:18px}.name-display{height:auto;min-height:105px;margin-top:0;margin-left:0;margin-bottom:0;font-size:clamp(80px,20vw,120px)}.official-logo{width:200px;height:36px}}
+
+.internship-lead{font-weight:500;margin-top:15px}
+
+.company.audit>div:nth-child(2)>p.sub{font-size:15px;color:#c7c7c7}

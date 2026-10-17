@@ -1,0 +1,4 @@
+.internship-photo{overflow:hidden}.internship-photo img{aspect-ratio:auto;height:auto;object-fit:initial;margin-top:-14%}
+.chapter-title>span{color:#fff;font-size:80px;letter-spacing:-2px;font-weight:400;line-height:1.1}#internship .chapter-title{gap:25px}
+.forge-heading>p{margin-top:-10px}.forge-caption{justify-content:flex-end}.forge-caption:has(.forge-controls[hidden]){display:none}
+@media(max-width:700px){.chapter-title>span{font-size:42px;letter-spacing:-1px}#internship .chapter-title{gap:14px}.forge-heading>p{margin-top:8px}}
